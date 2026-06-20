@@ -192,7 +192,7 @@ require (
 	github.com/stackitcloud/stackit-sdk-go/core v0.17.3 // indirect
 	github.com/vultr/govultr/v2 v2.17.2 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
-	go.mongodb.org/mongo-driver v1.17.4 // indirect
+	go.mongodb.org/mongo-driver v1.17.7 // indirect
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.opentelemetry.io/collector/client v1.48.1-0.20251218222727-bf28fa76882d // indirect
 	go.opentelemetry.io/collector/component/componentstatus v0.142.1-0.20251218222727-bf28fa76882d // indirect
